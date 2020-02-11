@@ -11,10 +11,10 @@
 	</parent>
 
 	<groupId>nuri</groupId>
-    <artifactId>lguplus-batch</artifactId>
+    <artifactId>sample-batch</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-	<name>lguplus-batch</name>
+	<name>sample-batch</name>
 	<description>fc-poc project for Spring Boot</description>
 	
 
